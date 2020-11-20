@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00",
-    "time": 54
+    "time": 61
   },
   {
     "name": "BestQA",
@@ -13,6 +13,6 @@
     "slug": "best-qa",
     "status": "up",
     "uptime": "100.00",
-    "time": 1101
+    "time": 1505
   }
 ]
