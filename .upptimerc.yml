@@ -6,13 +6,9 @@ repo: upptime # Your Github repository name
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: BestQA
+  - name: BestQA 
+    url: https://www.bestqa.net
+  - name: BestQA2
     url: $BESTQA
 
 status-website:
