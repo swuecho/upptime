@@ -9,7 +9,7 @@ sites:
   - name: BestQA 
     url: https://www.bestqa.net
   - name: BestQA2
-    url: $BESTQA
+    url: $SECRET_SITE 
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
