@@ -7,8 +7,6 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: BestQA 
-    url: https://www.bestqa.net
-  - name: BestQb
     url: $SECRET_SITE 
 
 status-website:
