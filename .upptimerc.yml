@@ -12,6 +12,7 @@ sites:
     url: $BESTQA
 
 status-website:
+  cname: blog.meihao.us/upptime/ 
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
