@@ -11,8 +11,8 @@
     "name": "BestQA",
     "url": "$SECRET_SITE",
     "slug": "best-qa",
-    "status": "up",
-    "uptime": "99.80%",
-    "time": 1434
+    "status": "down",
+    "uptime": "99.81%",
+    "time": 1369
   }
 ]
