@@ -5,14 +5,14 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 70
+    "time": 73
   },
   {
     "name": "BestQA",
     "url": "$SECRET_SITE",
     "slug": "best-qa",
     "status": "up",
-    "uptime": "99.79%",
-    "time": 1327
+    "uptime": "99.81%",
+    "time": 1314
   }
 ]
