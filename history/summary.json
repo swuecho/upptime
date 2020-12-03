@@ -5,14 +5,30 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 73
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 80,
+    "timeDay": 72,
+    "timeWeek": 84,
+    "timeMonth": 80,
+    "timeYear": 80
   },
   {
     "name": "BestQA",
     "url": "$SECRET_SITE",
     "slug": "best-qa",
     "status": "up",
-    "uptime": "99.81%",
-    "time": 1314
+    "uptime": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1713,
+    "timeDay": 1173,
+    "timeWeek": 1443,
+    "timeMonth": 1713,
+    "timeYear": 1713
   }
 ]
