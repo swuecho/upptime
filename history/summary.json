@@ -19,15 +19,15 @@
     "name": "BestQA",
     "url": "$SECRET_SITE",
     "slug": "best-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
     "time": 1799,
-    "timeDay": 1477,
-    "timeWeek": 1739,
+    "timeDay": 1206,
+    "timeWeek": 1816,
     "timeMonth": 1799,
     "timeYear": 1799
   }
