@@ -9,26 +9,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 81,
-    "timeDay": 107,
-    "timeWeek": 87,
-    "timeMonth": 81,
-    "timeYear": 81
+    "time": 82,
+    "timeDay": 101,
+    "timeWeek": 93,
+    "timeMonth": 82,
+    "timeYear": 82
   },
   {
     "name": "BestQA",
     "url": "$SECRET_SITE",
     "slug": "best-qa",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 1829,
-    "timeDay": 1517,
-    "timeWeek": 1738,
-    "timeMonth": 1829,
-    "timeYear": 1829
+    "uptime": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1799,
+    "timeDay": 1477,
+    "timeWeek": 1739,
+    "timeMonth": 1799,
+    "timeYear": 1799
   }
 ]
