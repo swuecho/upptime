@@ -22,7 +22,7 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "best-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "99.23%",
     "time": 1511,
     "timeDay": 963,
-    "timeWeek": 1643,
+    "timeWeek": 1661,
     "timeMonth": 1483,
     "timeYear": 1511,
     "dailyMinutesDown": {
