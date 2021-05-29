@@ -22,18 +22,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "best-qa",
-    "status": "up",
-    "uptime": "98.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.71%",
-    "uptimeMonth": "96.17%",
-    "uptimeYear": "98.79%",
+    "status": "down",
+    "uptime": "98.80%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "96.42%",
+    "uptimeMonth": "96.23%",
+    "uptimeYear": "98.80%",
     "time": 1407,
     "timeDay": 791,
-    "timeWeek": 1006,
-    "timeMonth": 1121,
+    "timeWeek": 1015,
+    "timeMonth": 1122,
     "timeYear": 1407,
     "dailyMinutesDown": {
+      "2021-05-29": 0,
       "2021-05-27": 42,
       "2021-05-26": 158,
       "2021-05-25": 37,
@@ -99,7 +100,7 @@
       "2021-01-07": 26,
       "2021-01-04": 55,
       "2021-01-02": 41,
-      "2020-12-29": 60
+      "2020-12-29": 30
     }
   }
 ]
