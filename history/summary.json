@@ -22,12 +22,12 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "best-qa",
-    "status": "up",
-    "uptime": "98.85%",
+    "status": "down",
+    "uptime": "98.86%",
     "uptimeDay": "98.63%",
     "uptimeWeek": "98.89%",
     "uptimeMonth": "96.98%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.86%",
     "time": 1364,
     "timeDay": 1016,
     "timeWeek": 1080,
@@ -96,8 +96,7 @@
       "2021-02-24": 22,
       "2021-02-20": 28,
       "2021-02-19": 24,
-      "2021-02-18": 22,
-      "2021-02-16": 17
+      "2021-02-18": 22
     }
   }
 ]
