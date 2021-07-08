@@ -9,7 +9,7 @@ sites:
   - name: BestQA 
     url: $SECRET_SITE 
   - name: BestQA_GO_HEALTH 
-    url: $BestQA_GO_HEALTH
+    url: $BESTQA_GO_HEALTH
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
