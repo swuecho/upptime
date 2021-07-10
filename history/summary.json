@@ -22,14 +22,14 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "best-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "90.28%",
+    "uptimeDay": "90.27%",
     "uptimeWeek": "98.61%",
     "uptimeMonth": "98.40%",
     "uptimeYear": "98.91%",
     "time": 1340,
-    "timeDay": 987,
+    "timeDay": 980,
     "timeWeek": 977,
     "timeMonth": 1017,
     "timeYear": 1340,
@@ -93,7 +93,7 @@
       "2021-03-11": 69,
       "2021-03-10": 40,
       "2021-03-09": 76,
-      "2021-03-08": 84
+      "2021-03-08": 59
     }
   },
   {
@@ -101,18 +101,19 @@
     "url": "$BESTQA_GO_HEALTH",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "best-qa-go-health",
-    "status": "up",
-    "uptime": "98.19%",
-    "uptimeDay": "96.13%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "98.19%",
-    "uptimeYear": "98.19%",
+    "status": "down",
+    "uptime": "98.23%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "98.23%",
     "time": 404,
-    "timeDay": 440,
+    "timeDay": 464,
     "timeWeek": 404,
     "timeMonth": 404,
     "timeYear": 404,
     "dailyMinutesDown": {
+      "2021-07-10": 0,
       "2021-07-09": 56
     }
   }
