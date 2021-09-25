@@ -6,8 +6,6 @@ repo: upptime # Your Github repository name
 sites:
   - name: Google
     url: https://www.google.com
-  - name: BestQA 
-    url: https://www.bestqa.net/
   - name: BestQA_GO
     url: https://www.bestqa.net/go/bestqa_dev/up
 
