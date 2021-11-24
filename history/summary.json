@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 159,
-    "timeWeek": 155,
-    "timeMonth": 119,
+    "timeDay": 155,
+    "timeWeek": 166,
+    "timeMonth": 122,
     "timeYear": 95,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/www.bestqa.net",
     "slug": "best-qa-go",
     "status": "up",
-    "uptime": "98.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "98.00%",
-    "time": 801,
-    "timeDay": 1898,
-    "timeWeek": 1207,
-    "timeMonth": 1192,
-    "timeYear": 801,
+    "uptime": "98.01%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "98.01%",
+    "time": 802,
+    "timeDay": 1952,
+    "timeWeek": 1214,
+    "timeMonth": 1187,
+    "timeYear": 802,
     "dailyMinutesDown": {
-      "2021-11-23": 9,
       "2021-11-10": 27,
       "2021-11-08": 20,
       "2021-11-05": 58,
@@ -74,7 +73,7 @@
       "2021-09-11": 103,
       "2021-09-10": 38,
       "2021-09-08": 167,
-      "2021-09-07": 16
+      "2021-09-07": 33
     }
   }
 ]
