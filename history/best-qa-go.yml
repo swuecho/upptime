@@ -1,7 +1,7 @@
 url: https://www.bestqa.net/go/bestqa_dev/up
-status: up
-code: 200
-responseTime: 965
-lastUpdated: 2022-01-30T23:11:17.196Z
+status: down
+code: 504
+responseTime: 6972
+lastUpdated: 2022-01-31T07:23:30.126Z
 startTime: Wed Aug 04 2021 02:56:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
