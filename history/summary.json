@@ -22,18 +22,19 @@
     "url": "https://www.bestqa.net/go/bestqa_dev/up",
     "icon": "https://favicons.githubusercontent.com/www.bestqa.net",
     "slug": "best-qa-go",
-    "status": "up",
-    "uptime": "99.20%",
+    "status": "down",
+    "uptime": "99.21%",
     "uptimeDay": "96.71%",
     "uptimeWeek": "98.37%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "99.20%",
+    "uptimeYear": "99.21%",
     "time": 1059,
-    "timeDay": 1125,
+    "timeDay": 1177,
     "timeWeek": 1044,
     "timeMonth": 1047,
     "timeYear": 1059,
     "dailyMinutesDown": {
+      "2022-05-21": 0,
       "2022-05-20": 47,
       "2022-05-17": 24,
       "2022-05-15": 41,
@@ -87,8 +88,7 @@
       "2021-09-30": 38,
       "2021-09-27": 162,
       "2021-09-26": 271,
-      "2021-09-25": 81,
-      "2021-09-24": 35
+      "2021-09-25": 81
     }
   }
 ]
