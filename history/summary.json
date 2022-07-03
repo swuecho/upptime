@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 84,
-    "timeDay": 77,
-    "timeWeek": 78,
-    "timeMonth": 84,
+    "timeDay": 73,
+    "timeWeek": 77,
+    "timeMonth": 85,
     "timeYear": 87,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,16 @@
     "slug": "best-qa-go",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "98.19%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "98.21%",
     "uptimeYear": "99.30%",
-    "time": 1063,
-    "timeDay": 847,
-    "timeWeek": 951,
+    "time": 1062,
+    "timeDay": 925,
+    "timeWeek": 927,
     "timeMonth": 1073,
-    "timeYear": 1063,
+    "timeYear": 1062,
     "dailyMinutesDown": {
-      "2022-07-02": 11,
       "2022-07-01": 26,
       "2022-06-30": 88,
       "2022-06-28": 28,
@@ -97,7 +96,8 @@
       "2021-10-30": 23,
       "2021-10-28": 21,
       "2021-10-27": 56,
-      "2021-10-26": 19
+      "2021-10-26": 19,
+      "2021-10-23": 18
     }
   }
 ]
