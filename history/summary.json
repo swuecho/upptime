@@ -22,9 +22,9 @@
     "url": "https://www.bestqa.net/go/bestqa_dev/up",
     "icon": "https://icons.duckduckgo.com/ip3/www.bestqa.net.ico",
     "slug": "best-qa-go",
-    "status": "up",
-    "uptime": "97.38%",
-    "uptimeDay": "98.03%",
+    "status": "down",
+    "uptime": "97.39%",
+    "uptimeDay": "98.02%",
     "uptimeWeek": "99.12%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "96.24%",
@@ -126,8 +126,7 @@
       "2022-03-02": 68,
       "2022-03-01": 3,
       "2022-02-27": 16,
-      "2022-02-13": 19,
-      "2022-02-01": 42
+      "2022-02-13": 19
     }
   }
 ]
