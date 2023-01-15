@@ -22,14 +22,14 @@
     "url": "https://www.bestqa.net/go/bestqa_dev/up",
     "icon": "https://icons.duckduckgo.com/ip3/www.bestqa.net.ico",
     "slug": "best-qa-go",
-    "status": "up",
-    "uptime": "97.40%",
-    "uptimeDay": "95.55%",
+    "status": "down",
+    "uptime": "97.41%",
+    "uptimeDay": "95.54%",
     "uptimeWeek": "93.44%",
     "uptimeMonth": "98.28%",
     "uptimeYear": "96.24%",
-    "time": 1330,
-    "timeDay": 1171,
+    "time": 1329,
+    "timeDay": 1180,
     "timeWeek": 1700,
     "timeMonth": 1401,
     "timeYear": 1373,
@@ -110,8 +110,7 @@
       "2022-06-10": 121,
       "2022-06-08": 86,
       "2022-06-07": 16,
-      "2022-06-06": 79,
-      "2022-06-04": 19
+      "2022-06-06": 79
     }
   }
 ]
