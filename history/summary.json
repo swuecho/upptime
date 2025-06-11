@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 120,
-    "timeWeek": 107,
+    "timeDay": 76,
+    "timeWeek": 106,
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {}
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bestqa.net.ico",
     "slug": "best-qa-go",
     "status": "down",
-    "uptime": "75.80%",
+    "uptime": "75.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.41%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.57%",
-    "time": 1347,
+    "uptimeYear": "29.29%",
+    "time": 1346,
     "timeDay": 0,
     "timeWeek": 596,
     "timeMonth": 596,
-    "timeYear": 1321,
+    "timeYear": 1322,
     "dailyMinutesDown": {
-      "2025-06-10": 15,
+      "2025-06-11": 15,
+      "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
@@ -298,8 +299,7 @@
       "2024-08-18": 16,
       "2024-08-16": 20,
       "2024-07-27": 18,
-      "2024-07-03": 21,
-      "2024-06-11": 27
+      "2024-07-03": 21
     }
   }
 ]
