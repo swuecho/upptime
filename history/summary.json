@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
     "timeDay": 158,
     "timeWeek": 107,
     "timeMonth": 97,
     "timeYear": 108,
-    "dailyMinutesDown": {
-      "2025-07-06": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BestQA_GO",
@@ -28,7 +26,7 @@
     "uptime": "76.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.51%",
+    "uptimeMonth": "86.56%",
     "uptimeYear": "29.28%",
     "time": 1289,
     "timeDay": 634,
