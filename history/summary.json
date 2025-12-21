@@ -6,14 +6,14 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.85%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 110,
-    "timeDay": 100,
-    "timeWeek": 130,
-    "timeMonth": 140,
+    "timeDay": 63,
+    "timeWeek": 116,
+    "timeMonth": 139,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2025-12-19": 17,
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bestqa.net.ico",
     "slug": "best-qa-go",
     "status": "down",
-    "uptime": "70.30%",
+    "uptime": "70.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2025-12-20": 15,
+      "2025-12-21": 17,
+      "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
@@ -344,8 +345,7 @@
       "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
-      "2024-12-22": 1440,
-      "2024-12-21": 1440
+      "2024-12-22": 1440
     }
   }
 ]
